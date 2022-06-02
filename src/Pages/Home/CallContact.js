@@ -4,7 +4,7 @@ import callImg from "../../images/call-img.jpg";
 const CallContact = () => {
   return (
     <div className="bg-secondary p-12 text-white">
-      <div class="card lg:card-side shadow-xl">
+      <div class="card lg:card-side">
         <figure className="w-2/4">
           <div class="avatar">
             <div class=" rounded-full ring ring-secondary ring-offset-secondary ring-offset-2">
