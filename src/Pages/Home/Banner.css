@@ -1,0 +1,6 @@
+.banner {
+  margin-top: -95px;
+  background-image: url(../../images/hero-bg.jpg),
+    linear-gradient(rgba(57, 81, 114, 0.877), rgba(57, 81, 114, 0.795));
+  background-blend-mode: overlay;
+}
